@@ -24,9 +24,7 @@ ipv4-architecture-simulator/
 │   ├── forwarding.py        
 │   ├── fragmentation.py     
 │   └── reassembly.py        
-└── docs/                    # Mathematical formulation and academic documentation
-    ├── IP_Algorithms.tex
-    └── IP_Algorithms_Research_Paper.tex
+└── IPv4_Modular_Architecture.pdf                    # Mathematical formulation and academic documentation
 ```
 
 ## How to Run
