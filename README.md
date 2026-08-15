@@ -1,6 +1,6 @@
 # IPv4 Architecture Simulator
 
-A modular, educational Python simulation of the five core modules of the Internet Protocol (IPv4) architecture. This project serves as a practical demonstration for university-level networking courses.
+A modular, educational Python simulation of the five core modules of the Internet Protocol (IPv4) architecture. This project serves as a practical demonstration for IP (Network Layer) of IoT & Embedded Systems Course.
 
 ## Architecture
 
@@ -43,3 +43,5 @@ python main.py
 3. Because `eth0` has a simulated MTU of 500 bytes, the Fragmentation Module splits the packet into 3 independent fragments.
 4. The simulation transmits the 3 fragments **out-of-order** to the destination.
 5. The Reassembly Module buffers the fragments and perfectly reconstructs the original payload upon receiving the final missing piece.
+
+#### Author : Aryan Shukla
